@@ -14,21 +14,22 @@ Build a machine learning model that accurately predicts supermarket transaction 
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 🖥️ Live Streamlit App
-![App Screenshot](images/app_screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/asiya-sabiu25/supermarket-sales-prediction/main/images/app_screenshot.png)
 
 ### 📊 Feature Importance
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](https://raw.githubusercontent.com/asiya-sabiu25/supermarket-sales-prediction/main/images/feature_importance.png)
 
 ### 🎯 Actual vs Predicted Sales
-![Actual vs Predicted](images/actual_vs_predicted.png)
+![Actual vs Predicted](https://raw.githubusercontent.com/asiya-sabiu25/supermarket-sales-prediction/main/images/actual_vs_predicted.png)
 
 ### 📈 Sales by Branch
-![Sales by Branch](images/sales_by_branch.png)
+![Sales by Branch](https://raw.githubusercontent.com/asiya-sabiu25/supermarket-sales-prediction/main/images/sales_by_branch.png)
 
 ### 🔥 Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
-
+![Correlation Heatmap](https://raw.githubusercontent.com/asiya-sabiu25/supermarket-sales-prediction/main/images/correlation_heatmap.png)
 ---
 
 ## 📊 Dataset
