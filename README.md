@@ -14,22 +14,24 @@ Build a machine learning model that accurately predicts supermarket transaction 
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🖥️ Live Streamlit App
-![App Screenshot](https://raw.githubusercontent.com/asiya-sabiu25/supermarket-sales-prediction/main/images/app_screenshot.png)
-
-### 📊 Feature Importance
-![Feature Importance](https://raw.githubusercontent.com/asiya-sabiu25/supermarket-sales-prediction/main/images/feature_importance.png)
+![App Screenshot](https://raw.githubusercontent.com/asiyasabiu25/supermarket-sales-prediction/main/images/Screenshot%202026-03-06%20121055.png)
 
 ### 🎯 Actual vs Predicted Sales
-![Actual vs Predicted](https://raw.githubusercontent.com/asiya-sabiu25/supermarket-sales-prediction/main/images/actual_vs_predicted.png)
-
-### 📈 Sales by Branch
-![Sales by Branch](https://raw.githubusercontent.com/asiya-sabiu25/supermarket-sales-prediction/main/images/sales_by_branch.png)
+![Actual vs Predicted](https://raw.githubusercontent.com/asiyasabiu25/supermarket-sales-prediction/main/images/actual_vs_predicted.png)
 
 ### 🔥 Correlation Heatmap
-![Correlation Heatmap](https://raw.githubusercontent.com/asiya-sabiu25/supermarket-sales-prediction/main/images/correlation_heatmap.png)
+![Correlation Heatmap](https://raw.githubusercontent.com/asiyasabiu25/supermarket-sales-prediction/main/images/correlation_heatmap.png)
+
+### 📈 Sales by Branch
+![Sales by Branch](https://raw.githubusercontent.com/asiyasabiu25/supermarket-sales-prediction/main/images/sales_by_branch.png)
+
+### 🛍️ Sales by Product Line
+![Sales by Product Line](https://raw.githubusercontent.com/asiyasabiu25/supermarket-sales-prediction/main/images/sales_by_productline.png)
+
+### ⏰ Sales by Time
+![Sales by Time](https://raw.githubusercontent.com/asiyasabiu25/supermarket-sales-prediction/main/images/sales_by_time.png)
+
 ---
 
 ## 📊 Dataset
@@ -110,22 +112,6 @@ streamlit run app.py
 
 ---
 
-## 📁 Repository Structure
-
-```
-supermarket-sales-prediction/
-│
-├── Supermarket_Sales_Upgraded.ipynb   # Main ML notebook
-├── app.py                              # Streamlit web app
-├── supermarket_model.pkl              # Saved trained model
-├── feature_columns.pkl                # Saved feature list
-├── Supermarket_Dashboard.pbix         # Power BI dashboard (coming soon)
-├── requirements.txt                   # Dependencies
-└── README.md                          # This file
-```
-
----
-
 ## 💾 Saving Charts From Colab
 
 To save all charts as image files directly from Google Colab, add `plt.savefig()` after each plot:
@@ -164,7 +150,7 @@ openpyxl
 
 ## 👤 Author
 
-**[Aiya Sabiu Sulaiman]**
+**[Asiya Sabiu Sulaiman]**
 Human Physiology Graduate | Data Science & ML (3MTT Certified) | Microsoft Power BI (In Progress)
 📧 your.email@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/asiya-sabiu25/)
@@ -174,7 +160,7 @@ Human Physiology Graduate | Data Science & ML (3MTT Certified) | Microsoft Power
 
 | Certification | Issuer | Status |
 |---|---|---|
-| B.Sc. Human Physiology | [Bayero University] | ✅ Completed |
+| B.Sc. Human Physiology | [Bayrro University, Kano] | ✅ Completed |
 | Data Science & ML Certificate | 3MTT — Federal Government of Nigeria | ✅ Completed |
 | Microsoft Power BI Data Analyst (PL-300) | Microsoft | 🔄 In Progress |
 | Google Data Analytics Certificate | Google / Coursera | 📅 Planned |
