@@ -2,7 +2,7 @@
 
 A machine learning web application that predicts total sales per transaction in a supermarket using Random Forest regression.
 
-![Python](https://img.shields.io/badge/Python-3.10-blue) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange) ![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red) ![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow) ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.10-blue) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange) ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 
 ---
 
@@ -15,22 +15,22 @@ Build a machine learning model that accurately predicts supermarket transaction 
 ## 📸 Screenshots
 
 ### 🖥️ Live Streamlit App
-![App Screenshot](https://raw.githubusercontent.com/asiyasabiu25/supermarket-sales-prediction/main/images/Screenshot%202026-03-06%20121055.png)
+![App Screenshot](https://raw.githubusercontent.com/asiyasabiu25/Supermarket_Sales_Prediction/main/Screenshot%202026-03-06%20121055.png)
 
 ### 🎯 Actual vs Predicted Sales
-![Actual vs Predicted](https://raw.githubusercontent.com/asiyasabiu25/supermarket-sales-prediction/main/images/actual_vs_predicted.png)
+![Actual vs Predicted](https://raw.githubusercontent.com/asiyasabiu25/Supermarket_Sales_Prediction/main/actual_vs_predicted.png)
 
 ### 🔥 Correlation Heatmap
-![Correlation Heatmap](https://raw.githubusercontent.com/asiyasabiu25/supermarket-sales-prediction/main/images/correlation_heatmap.png)
+![Correlation Heatmap](https://raw.githubusercontent.com/asiyasabiu25/Supermarket_Sales_Prediction/main/correlation_heatmap.png)
 
 ### 📈 Sales by Branch
-![Sales by Branch](https://raw.githubusercontent.com/asiyasabiu25/supermarket-sales-prediction/main/images/sales_by_branch.png)
+![Sales by Branch](https://raw.githubusercontent.com/asiyasabiu25/Supermarket_Sales_Prediction/main/sales_by_branch.png)
 
 ### 🛍️ Sales by Product Line
-![Sales by Product Line](https://raw.githubusercontent.com/asiyasabiu25/supermarket-sales-prediction/main/images/sales_by_productline.png)
+![Sales by Product Line](https://raw.githubusercontent.com/asiyasabiu25/Supermarket_Sales_Prediction/main/sales_by_productline.png)
 
 ### ⏰ Sales by Time
-![Sales by Time](https://raw.githubusercontent.com/asiyasabiu25/supermarket-sales-prediction/main/images/sales_by_time.png)
+![Sales by Time](https://raw.githubusercontent.com/asiyasabiu25/Supermarket_Sales_Prediction/main/sales_by_time.png)
 
 ---
 
@@ -110,21 +110,6 @@ streamlit run app.py
 | Power BI | Interactive business dashboard |
 | Google Colab | Development environment |
 
----
-
-## 📁 Repository Structure
-
-```
-supermarket-sales-prediction/
-│
-├── Supermarket_Sales_Upgraded.ipynb   # Main ML notebook
-├── app.py                              # Streamlit web app
-├── supermarket_model.pkl              # Saved trained model
-├── feature_columns.pkl                # Saved feature list
-├── Supermarket_Dashboard.pbix         # Power BI dashboard (coming soon)
-├── requirements.txt                   # Dependencies
-└── README.md                          # This file
-```
 
 ---
 
@@ -166,17 +151,17 @@ openpyxl
 
 ## 👤 Author
 
-**[Your Name]**
+**[Asiya Sabiu Sulaiman]**
 Human Physiology Graduate | Data Science & ML (3MTT Certified) | Microsoft Power BI (In Progress)
-📧 your.email@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+📧 asiyanaphader.@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/asiya-sabiu25/)
 🐙 [GitHub](https://github.com/asiyasabiu25)
 
 ## 🎓 Certifications & Training
 
 | Certification | Issuer | Status |
 |---|---|---|
-| B.Sc. Human Physiology | [Your University] | ✅ Completed |
+| B.Sc. Human Physiology | [Bayero University, Kano] | ✅ Completed |
 | Data Science & ML Certificate | 3MTT — Federal Government of Nigeria | ✅ Completed |
 | Microsoft Power BI Data Analyst (PL-300) | Microsoft | 🔄 In Progress |
 | Google Data Analytics Certificate | Google / Coursera | 📅 Planned |
