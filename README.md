@@ -112,6 +112,22 @@ streamlit run app.py
 
 ---
 
+## 📁 Repository Structure
+
+```
+supermarket-sales-prediction/
+│
+├── Supermarket_Sales_Upgraded.ipynb   # Main ML notebook
+├── app.py                              # Streamlit web app
+├── supermarket_model.pkl              # Saved trained model
+├── feature_columns.pkl                # Saved feature list
+├── Supermarket_Dashboard.pbix         # Power BI dashboard (coming soon)
+├── requirements.txt                   # Dependencies
+└── README.md                          # This file
+```
+
+---
+
 ## 💾 Saving Charts From Colab
 
 To save all charts as image files directly from Google Colab, add `plt.savefig()` after each plot:
@@ -150,17 +166,17 @@ openpyxl
 
 ## 👤 Author
 
-**[Asiya Sabiu Sulaiman]**
+**[Your Name]**
 Human Physiology Graduate | Data Science & ML (3MTT Certified) | Microsoft Power BI (In Progress)
 📧 your.email@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/asiya-sabiu25/)
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
 🐙 [GitHub](https://github.com/asiyasabiu25)
 
 ## 🎓 Certifications & Training
 
 | Certification | Issuer | Status |
 |---|---|---|
-| B.Sc. Human Physiology | [Bayrro University, Kano] | ✅ Completed |
+| B.Sc. Human Physiology | [Your University] | ✅ Completed |
 | Data Science & ML Certificate | 3MTT — Federal Government of Nigeria | ✅ Completed |
 | Microsoft Power BI Data Analyst (PL-300) | Microsoft | 🔄 In Progress |
 | Google Data Analytics Certificate | Google / Coursera | 📅 Planned |
